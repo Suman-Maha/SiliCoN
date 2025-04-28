@@ -1,5 +1,5 @@
 # SiliCoN
-Simultaneous Nuclei Segmentation and Color Normalization
+Simultaneous Nuclei Segmentation and Color Normalization Model
 
 ### Article: 
 S. Mahapatra and P. Maji, "SiliCoN: Simultaneous Nuclei Segmentation and Color Normalization of Histological Images," 
